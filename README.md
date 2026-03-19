@@ -38,5 +38,12 @@ helen@localhost:~$ cat ./what-i-actually-build.md
 ```
 
 ```
+helen@localhost:~$ cat ./affiliations.md
+
+  Member, Open Source Endowment — building sustainable funding for OSS maintainers
+                                   endowment.dev
+```
+
+```
 helen@localhost:~$ █
 ```
