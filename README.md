@@ -11,7 +11,7 @@ helen@localhost:~$ cat /etc/helen-release
   Role     [REDACTED] · something exciting · stealth mode
   Prev     VP Eng @ multiverse · backstage · spotify
   Location London, UK
-  Uptime   ~15yrs in eng
+  Uptime   ~20yrs in eng
 ```
 
 ```
