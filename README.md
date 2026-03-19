@@ -2,7 +2,7 @@
 helen@localhost:~$ whoami
 ```
 
-**helen greul** · engineer · london
+**helen greul** · builder · london
 
 ```
 helen@localhost:~$ cat /etc/helen-release
