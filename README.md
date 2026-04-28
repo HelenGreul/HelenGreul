@@ -17,7 +17,7 @@ helen@localhost:~$ cat /etc/helen-release
 ```
 helen@localhost:~$ ls ./currently-obsessing-over/
 
-  agentic-coding/      voice-ai/      devex/      [classified]/
+  agentic-coding/      voice-ai/      devex/      oss/
 ```
 
 ```
