@@ -8,7 +8,7 @@ helen@localhost:~$ whoami
 helen@localhost:~$ cat /etc/helen-release
 
   OS       hands-on engineer with leadership patches installed
-  Role     [REDACTED] · something exciting · stealth mode
+  Role     SVP Engineering @ PolyAI
   Prev     VP Eng @ multiverse · backstage · spotify
   Location London, UK
   Uptime   ~20yrs in eng
@@ -23,8 +23,8 @@ helen@localhost:~$ ls ./currently-obsessing-over/
 ```
 helen@localhost:~$ git log --oneline --graph
 
-  * a3f9d1b  (HEAD) feat: [stealth] — can't say yet, ask me in person
-  * 2e8c044  chore: vp eng @ multiverse-io — scaled eng org, shipped product
+  * b7e2f3a  (HEAD) feat: svp eng @ polyai — voice ai, agent platform
+  * a3f9d1b  chore: vp eng @ multiverse-io — scaled eng org, shipped product
   * f1a3b09  feat: backstage @ spotify — open sourced the developer portal
   * d4c2a11  init: start writing code, never really stop
 ```
